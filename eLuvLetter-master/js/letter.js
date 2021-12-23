@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;颖慧", 
-				"穎慧^200ちゃん<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;クリスマス^300いつも^200寒いよね、^600でも、^600手を^200繋いでいると、^600暖か^200くなるよ！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;どんなに^300寒い夜も、^600君と^300二人でいれば、^600ちっとも^300寒くない！<br><br><p style='float:right; display:block; width:80px;'>^1000阿川^200より</p>"],
+				"穎慧^200ちゃん<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;圣诞快乐啦！^300在这个寒冷的冬天，^200我想给你送来我的温暖。^600说起来我们不知不觉也一起度过了很多！^600在以后，阿川会尽力带给你快乐^200！^600我们的明天也会长长久久的吧^200！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我好喜欢你啊！颖慧^300！^600让阿川成你的猫猫吧！^300陪伴颖慧带给颖慧温暖，^600也会一直爱你^300不论以后会有多少的风和雨！<br><p style='float:right; display:block; width:80px;'>^1000阿川^200より</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
